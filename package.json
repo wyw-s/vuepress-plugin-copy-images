@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-plugin-copy-images",
+  "version": "1.0.0",
+  "description": "A vuepress plugin for auto copy imags",
+  "main": "lib/index.js",
+  "keywords": [
+    "vuepress",
+    "copy",
+    "images",
+    "copy-images"
+  ],
+  "author": "wyw-s <2576393459@qq.com>",
+  "homepage": "https://github.com/wyw-s/vuepress-plugin-copy-images/",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyw-s/vuepress-plugin-copy-images.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wyw-s/vuepress-plugin-copy-images/issues"
+  }
+}
